@@ -200,4 +200,6 @@ cd ../bin
     mvn jetty:run -Ddubbo.registry.address=zookeeper://127.0.0.1:2181
     http://root:root@127.0.0.1:8080
 ```
-
+## maven build
+Use the rnd maven repository to build the project behind the proxy.
+The url of repository is http://rnd-mirror.huawei.com/content/groups/public
