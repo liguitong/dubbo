@@ -200,3 +200,5 @@ cd ../bin
     mvn jetty:run -Ddubbo.registry.address=zookeeper://127.0.0.1:2181
     http://root:root@127.0.0.1:8080
 ```
+## My Read
+中文测试
